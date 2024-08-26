@@ -1,0 +1,24 @@
+UNIVERSIDAD NACIONAL AUTONOMA DE HONDURAS
+FACULTAD DE CIENCIAS ESPACIALES
+CTE 334 – Desarrollo de Aplicaciones SIG
+
+Autor: Diana Angelica Vargas
+                 
+Examen III
+
+Guía Rápida para Crear un Plugin en QGIS:
+
+    Preparar el Entorno de Trabajo.
+    Configurar la Estructura del Plugin.
+    Especificar los Metadatos del Plugin.
+     metadata.txt: Proporciona información como el nombre del plugin, su descripción, versión y autor.
+
+    Probar el Plugin:
+
+    Instalar y Activar: Coloca la carpeta del plugin en el directorio de plugins de QGIS y actívalo desde Complementos > Administrar e instalar complementos en QGIS.
+   Depurar y Optimizar:
+
+   Revisar Errores: Utiliza la consola de QGIS para ver mensajes y solucionar    problemas.
+   Ajustes: Modifica el código según sea necesario y realiza pruebas adicionales.
+
+
